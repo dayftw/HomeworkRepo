@@ -1,0 +1,32 @@
+.wrapperHW02 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    flex-direction: column;
+    background-color: rgb(150,150,204);
+}
+
+.card {
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    flex-direction: column;
+    gap: 15px;
+    width: 300px;
+    height: fit-content;
+}
+
+.main_info {
+
+    color:blueviolet;
+    font-weight: bold;
+    font-size: 48px;
+
+}
+
+.info {
+    font-size: 24px;
+}

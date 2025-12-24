@@ -1,0 +1,8 @@
+.parent {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    flex-direction: row;
+    background-color: rgb(150,150,204);
+}
